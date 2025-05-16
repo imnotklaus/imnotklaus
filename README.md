@@ -3,11 +3,7 @@ they/them
 
 based in LA
 
-working on films
-
-current project:
-
-API to integrate student events with Discord, Canvas, and Minecraft
+free palestine
 <!--
 **imnotklaus/imnotklaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
